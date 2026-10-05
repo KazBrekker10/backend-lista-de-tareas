@@ -1,0 +1,160 @@
+[
+     {"name":"isla saona", "city":"punta cana", "region":"caribe", "description":"Uno de los tesoros más famosos de la región, la Isla Saona es un paraíso tropical ubicado en el Parque Nacional Cotubanamá. Conocida por sus aguas turquesas, playas de arena blanca y la impresionante vida marina, este destino es perfecto para los amantes del snorkel y quienes buscan desconectar en un entorno natural.\n \nIsla Saona es, sin duda, el epítome de la belleza caribeña."},
+
+    {
+    "name":"coba", "city":"riviera maya", "region":"caribe", "description":"Cobá es una antigua ciudad maya que destaca por su pirámide principal, Nohoch Mul, la más alta de la Península de Yucatán, desde donde puedes obtener vistas panorámicas impresionantes de la selva circundante\n \nA diferencia de Chichén Itzá, aquí todavía es posible subir la pirámide, lo que añade un toque aventurero a la visita.\n \nCobá está situada a unos 45 minutos en coche desde Tulum, y su vasta red de sacbés (caminos antiguos) conecta diferentes partes de la ciudad." 
+    },
+
+    {
+    "name":"las cataratas del río dunn", "city":"jamaica", "region":"caribe", "description":"Dunn’s River Falls es una de las atracciones naturales más emblemáticas de Jamaica, situada a las afueras de Ocho Ríos.\n \nEsta impresionante cascada desciende por una serie de rocas escalonadas y desemboca directamente en el mar Caribe. Los visitantes pueden subir a las cataratas guiados por lugareños expertos que comparten interesantes historias sobre la zona y su historia."},
+
+    {
+    "name":"hoyo azul", "city":"punta cana", "region":"caribe", "description":"Ubicado en el Scape Park de Cap Cana, el Hoyo Azul es una impresionante piscina natural de agua dulce, famosa por su color azul intenso (debido a la alta concentración de minerales en sus aguas) y rodeada de exuberante vegetación.\n \nEste cenote está escondido en la base de un acantilado y ofrece a los visitantes la oportunidad de nadar en sus aguas cristalinas o simplemente disfrutar de la belleza del lugar."
+    },
+
+    {
+    "name":"tulum", "city":"riviera maya", "region":"caribe", "description":"La ciudad costera de Tulum combina el encanto de la historia con playas paradisíacas.\n \nEste sitio arqueológico es único por su ubicación, y ofrece vistas impresionantes al océano. Después de explorar las ruinas, puedes disfrutar de una tarde relajada en alguna de las playas cercanas, como Playa Paraíso.\n \nTulum tiene fácil acceso desde cualquier punto de la Riviera Maya, ya sea en auto, taxi o transporte público. Está a 1 hora en coche desde Princess Hotels Riviera Maya." 
+    },
+
+    {
+    "name":"la playa de seven mile", "city":"negril", "region":"caribe", "description":"Conocida como una de las playas más bellas del mundo, Seven Mile Beach, en Negril, es un trozo de paraíso.\n \nLa playa se extiende a lo largo de la costa, con arena blanca y aguas cristalinas que invitan a los visitantes a relajarse y descansar.\n \nTanto si prefieres tomar el sol, nadar o practicar deportes acuáticos como el buceo o el paddleboard, el ambiente es idílico\n \nA lo largo de la playa encontrarás una gran variedad de chiringuitos y restaurantes que sirven deliciosa cocina jamaicana y refrescantes cócteles. Esta combinación de sol, mar y comida deliciosa constituye un día perfecto en la playa." 
+    },
+
+    {
+    "name":"macao beach", "city":"punta cana", "region":"caribe", "description":"Si lo tuyo es disfrutar de una playa auténtica, lejos de los grandes resorts, Macao Beach es el lugar ideal.\n \nEsta playa, considerada una de las más bonitas de la región, es conocida por su ambiente relajado y su oleaje perfecto para practicar surf.\n \nAdemás de mariscos, aquí puedes degustar pescado fresco conseguido por los pescadores locales, lo que añade un toque auténtico a tu visita.\n \nMacao Beach está a unos 30 minutos en coche desde Princess Hotels Punta Cana. Puedes llegar en taxi o alquilar un coche si prefieres explorar la zona a tu ritmo." 
+    },
+
+    {
+    "name":"cenote dos ojos", "city":"riviera maya", "region":"caribe", "description":"La Riviera Maya está repleta de cenotes, piscinas naturales subterráneas de agua cristalina, y el Cenote Dos Ojos es uno de los más espectaculares.\n \nSituado a 1 hora de Princess Hotels Riviera Maya, este cenote es ideal para practicar snorkel o buceo.\n \nSu nombre proviene de las dos entradas que tiene, las cuales parecen dos ojos cuando se observan desde arriba.\n \nLo mejor es llevar equipo propio o alquilarlo en el lugar, y no te olvides de visitar las formaciones subacuáticas de estalactitas y estalagmitas, que te harán sentir como en un mundo de otro planeta." 
+    },
+
+    {
+    "name":"cataratas ys", "city":"st elizabeth", "region":"caribe", "description":"YS Falls es un impresionante oasis natural situado en la serena parroquia de Santa Elizabeth.\n \nConocida por sus cascadas y exuberantes jardines, esta joya oculta ofrece a los visitantes la oportunidad de bañarse en refrescantes piscinas naturales y sumergirse en la belleza de la naturaleza.\n \nUna visita guiada permite conocer la flora y la fauna de la zona y apreciar mejor este impresionante paisaje.\n \nPara completar la excursión, dirígete a Appleton Estate, situada en las cercanías. Aquí podrá disfrutar de una fascinante excursión en torno al ron, que profundiza en la historia y la artesanía de la famosa bebida espirituosa de Jamaica, y que se completa con degustaciones que muestran los ricos sabores de los rones locales." 
+    },
+    {
+  "name": "arco del cabo san lucas",
+  "city": "cabo san lucas",
+  "region": "caribe",
+  "description": "El Arco es una impresionante formación rocosa natural que se eleva majestuosamente donde el Mar de Cortés se une con el Océano Pacífico.\n\nEste emblemático monumento, también conocido como el Fin de la Tierra, es famoso por su belleza escénica y por albergar una colonia de leones marinos.\n\nLos visitantes pueden llegar fácilmente en lanchas con fondo de cristal para tomar fotografías espectaculares y admirar la claridad de las aguas turquesas.\n\nA pocos metros se encuentran la Playa del Amor y la Playa del Divorcio, lugares perfectos para relajarse en la arena blanca y disfrutar del paisaje."
+},
+ {
+    "name": "lago bled",
+    "city": "bled",
+    "region": "europa",
+    "description": "Este majestuoso cuerpo de agua color esmeralda se encuentra en los Alpes Julianos y es uno de los destinos más idílicos y fotografiados de Eslovenia.\n\nEn el centro del lago emerge una icónica isla con una iglesia barroca a la que se puede llegar en tradicionales botes de madera llamados pletnas."
+  },
+  {
+    "name": "calzada del gigante",
+    "city": "bushmills",
+    "region": "europa",
+    "description": "Una impresionante formación geológica en la costa de Irlanda del Norte, compuesta por unas cuarenta mil columnas de basalto perfectamente entrelazadas.\n\nEste espectacular paisaje costero fue declarado Patrimonio de la Humanidad y debe su nombre a una famosa e intrigante leyenda de gigantes locales."
+  },
+  {
+    "name": "laguna azul",
+    "city": "grindavik",
+    "region": "europa",
+    "description": "Un famoso balneario geotermal situado en un campo de lava en Islandia, conocido internacionalmente por sus reconfortantes aguas de color azul celeste.\n\nEl agua es rica en minerales como el sílice y el azufre, ofreciendo propiedades relajantes mientras disfrutas de un paisaje volcánico único."
+  },
+  {
+    "name": "canal prinsengracht",
+    "city": "ámsterdam",
+    "region": "europa",
+    "description": "El Canal del Príncipe es el más largo de los tres canales principales que cruzan el hermoso centro histórico de la capital de los Países Bajos.\n\nA lo largo de sus orillas se encuentran pintorescas casas flotantes, cafeterías locales y monumentos tan importantes como la Casa de Ana Frank."
+  },
+  {
+    "name": "distrito de los picos",
+    "city": "bakewell",
+    "region": "europa",
+    "description": "El Peak District es un parque nacional en el centro de Inglaterra famoso por sus colinas onduladas, valles verdes y pueblos de piedra.\n\nEs un lugar muy popular para los amantes del senderismo, ofreciendo espectaculares rutas escénicas y castillos históricos escondidos entre la naturaleza."
+  },
+  {
+    "name": "fiordos noruegos",
+    "city": "bergen",
+    "region": "europa",
+    "description": "Impresionantes valles inundados por el mar que fluyen entre altísimas montañas, cascadas rugientes y una naturaleza indomable en el oeste de Noruega.\n\nNavegar por estos majestuosos canales naturales es una de las experiencias paisajísticas más sobrecogedoras y memorables del continente europeo."
+  },
+  {
+    "name": "motovun",
+    "city": "motovun",
+    "region": "europa",
+    "description": "Un encantador e histórico pueblo medieval fortificado que se alza sobre una colina con vistas al valle del río Mirna en Croacia.\n\nSus calles empedradas conservan murallas del siglo XIII y la zona es mundialmente famosa por sus excelentes viñedos y la recolección de trufas."
+  },
+  {
+    "name": "unidad de habitación de marsella",
+    "city": "marsella",
+    "region": "europa",
+    "description": "Obra maestra de la arquitectura moderna diseñada por Le Corbusier, concebida como una innovadora ciudad jardín vertical hecha de hormigón crudo.\n\nEl enorme edificio incluye cientos de apartamentos dúplex, calles comerciales interiores y una azotea con escuela e instalaciones deportivas."
+  },
+  {
+    "name": "nuestra señora de las rocas",
+    "city": "perast",
+    "region": "europa",
+    "description": "Una pintoresca isla artificial situada frente a la costa de Montenegro que alberga una hermosa iglesia católica del siglo XV.\n\nEl islote fue construido a lo largo de los siglos por pescadores locales que arrojaban rocas y hundían barcos viejos en el lugar."
+  },
+  {
+    "name": "zermatt",
+    "city": "zermatt",
+    "region": "europa",
+    "description": "Un exclusivo y pintoresco pueblo alpino suizo situado a los pies del majestuoso e icónico monte Cervino, también conocido como Matterhorn.\n\nEs un paraíso libre de automóviles que atrae a montañistas de todo el mundo gracias a sus increíbles pistas de esquí y paisajes invernales."
+  },
+  {
+    "name": "gran cañon",
+    "city": "tuba city",
+    "region": "eeuu",
+    "description": "Una imponente y profunda garganta escarbada por el río Colorado a lo largo de millones de años, famosa por sus capas de roca roja de gran valor geológico.\n\nEste parque nacional ofrece espectaculares miradores panorámicos y desafiantes rutas de senderismo que regalan vistas verdaderamente sobrecogedoras."
+  },
+  {
+    "name": "estatua de la libertad",
+    "city": "nueva york",
+    "region": "eeuu",
+    "description": "El monumento más emblemático del país, situado en la isla de la Libertad, que sirvió históricamente como símbolo de bienvenida para millones de inmigrantes.\n\nLos visitantes pueden tomar un transbordador para explorar la isla, visitar su museo interactivo y disfrutar de una vista inigualable de Manhattan."
+  },
+  {
+    "name": "parque nacional yellowstone",
+    "city": "west yellowstone",
+    "region": "eeuu",
+    "description": "El primer parque nacional del mundo, famoso por su asombrosa actividad geotérmica que incluye cientos de géiseres activos y fuentes termales multicolores.\n\nAdemás de sus fenómenos naturales, es un refugio silvestre ideal para observar de cerca animales como bisontes, osos y majestuosos ciervos."
+  },
+  {
+    "name": "muelle de santa mónica",
+    "city": "santa mónica",
+    "region": "eeuu",
+    "description": "Un histórico y vibrante muelle situado al final de la icónica Ruta 66, conocido por su clásico parque de atracciones junto al océano Pacífico.\n\nEs un lugar perfecto para disfrutar de artistas callejeros, comer mariscos frescos y ver hermosos atardeceres sobre la costa de California."
+  },
+  {
+    "name": "parque nacional yosemite",
+    "city": "mariposa",
+    "region": "eeuu",
+    "description": "Un impresionante valle rodeado de colosales acantilados de granito, imponentes cascadas y densos bosques llenos de secuoyas gigantes.\n\nEste paraíso natural es un destino de renombre mundial para los amantes de la escalada en roca, la fotografía de paisajes y el senderismo."
+  },
+  {
+    "name": "paseo de la fama de hollywood",
+    "city": "los ángeles",
+    "region": "eeuu",
+    "description": "Una de las aceras más famosas del mundo, adornada con miles de estrellas que rinden homenaje a las celebridades de la industria del entretenimiento.\n\nCaminar por este bulevar te permite buscar las placas de tus artistas favoritos y sumergirte de lleno en el corazón de la cultura del cine."
+  },
+  {
+    "name": "parque nacional de las montañas rocosas",
+    "city": "estes park",
+    "region": "eeuu",
+    "description": "Un majestuoso entorno de alta montaña en Colorado que destaca por sus imponentes picos nevados, lagos alpinos cristalinos y densos bosques.\n\nSus espectaculares carreteras panorámicas permiten recorrer las alturas en automóvil y disfrutar de vistas aéreas que quitan el aliento."
+  },
+  {
+    "name": "french quarter",
+    "city": "nueva orleans",
+    "region": "eeuu",
+    "description": "El barrio más antiguo y colorido de la ciudad, mundialmente famoso por su vibrante ambiente nocturno, su música jazz en vivo y su rica historia colonial.\n\nSus calles destacan por los hermosos balcones de hierro forjado y por ofrecer una de las gastronomías más deliciosas y únicas del país."
+  },
+  {
+    "name": "puente golden gate",
+    "city": "san francisco",
+    "region": "eeuu",
+    "description": "Un icónico puente colgante de color naranja internacional que cruza el estrecho que conecta la bahía de San Francisco con el océano Pacífico.\n\nFrecuentemente envuelto en una mística niebla, este monumento se puede recorrer a pie o en bicicleta para capturar postales espectaculares."
+  },
+  {
+    "name": "parque nacional zion",
+    "city": "springdale",
+    "region": "eeuu",
+    "description": "Un espectacular santuario de la naturaleza caracterizado por sus gigantescos cañones de arenisca de tonos rojizos y bronceados.\n\nEs muy popular por sus rutas de aventura que invitan a caminar a través de ríos encajonados o ascender a vertiginosos miradores en las alturas."
+  }
+]
