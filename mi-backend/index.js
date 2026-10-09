@@ -1,28 +1,34 @@
 //Fundamental para servidor con express
 const express = require('express');
 const cors = require('cors');
-const turistcPlaces = require('./data/lugares-turisticos.json');
 const app = express();
 
 app.use(cors());
 app.use(express.json());
 
+//Lista de tareas
 
-//ruta raiz
-app.get("/", (req,res)=>{
-    res.send("hola desde Nodejs y express")
+let tasks = [];
+
+
+app.get('/API/tasks',(req,res)=>{
+    res.json(tasks);
+})
+//inicio del sistema POST
+
+app.post('/API/tasks',(req,res)=>{
+    const newTask = req.body;
+    console.log(`nueva tarea recibida: ${newTask.value}`);
+    newTask.id = tasks.length+1;
+    tasks.push(newTask);
+    res.status(201).json({message:"tarea añadida exitosamente", task:newTask, tasks})
 })
 
-app.get('/productos', (req, res) => {
-  res.json([
-    { id: 1, nombre: 'Gelatina', precio:40 },
-    {id:2, nombre:"Helado", precio:3.00},
-    {id:3, nombre:"queso", precio:4.50}
-]);
-});
+app.delete('/API/tasks/:id',(req,res)=>{
+    const deleteTaskId = Number(req.params.id);
+    tasks = tasks.filter(e=> e.id !== deleteTaskId);
 
-app.get("/turisticos",(req,res)=>{
-    res.json(turistcPlaces);
+    res.json({tasksList : tasks});
 })
 
 //ruta respuesta JSON con get

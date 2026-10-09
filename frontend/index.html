@@ -3,15 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Tareas</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <section class="turstic-section">
-        <h2>Lugares Turisticos</h2>
-        <ul id="turistic-list">
-
-        </ul>
-    </section>
+    <header>
+        <h1>Lista de Tareas</h1>
+    
+    </header>
+    <button onclick="console.log('boton presionado')">presionar aqui</button>
+    <div class="container">
+         <form action="" class="add-tasks" >
+        <input name="tasks" type="text" placeholder="Agrega aqui tu nueva tarea">
+        <button type="submit" class="add">
+            <i class="fa-solid fa-check"></i>
+        </button>
+    </form>
+    <ul class="tasks-list">
+    </ul>
+    </div>
+    <script src="https://kit.fontawesome.com/b3991ec826.js" crossorigin="anonymous"></script>
     <script src="script.js"></script>
 </body>
 </html>
