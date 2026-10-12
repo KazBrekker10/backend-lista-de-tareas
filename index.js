@@ -27,9 +27,7 @@ app.get('/API/tasks',(req,res)=>{
 
 app.post('/API/tasks',(req,res)=>{
     const newTask = req.body;
-    console.log(`nueva tarea recibida: ${newTask.value}`);
-    newTask.id = tasks.length+1;
-    console.log(tasks);
+    newTask.id = tasks.length>0? tasks[tasks.length-1].id+1:1;
     tasks.push(newTask);
     res.status(201).json({message:"tarea añadida exitosamente", task:newTask, tasks})
 })
@@ -37,11 +35,8 @@ app.post('/API/tasks',(req,res)=>{
 app.delete('/API/tasks/:id',(req,res)=>{
     const deleteTaskId = Number(req.params.id);
     tasks = tasks.filter(e=> e.id !== deleteTaskId);
-    console.log(tasks);
     res.json({message:`tarea eliminada`, tasksList : tasks});
 })
-
-app.p
 
 //ruta respuesta JSON con get
 /*FUNDAMENTAL PARA EL SERVIDOR */

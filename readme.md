@@ -1,0 +1,3 @@
+## Completado Server ##
+# Incluye carpeta publica que llama automaticamente los archivos estaticos
+# GET, POST, DELETE todo completo el cliente consume el API y hace la llamada al server este envia el JSON con los datos y el cliente renderiza la tarjeta segun esos datos tambien funciona de manera dinamica asi que si agrego una nueva tarea el server lo recibe y lo añade y actualiza la lista UL con dichos datos cada elemento de la lista tiene un boton de eliminar que al presionarlo elimina el elemento del server con DELETE y envia la lista actualiza que actualiza automaticamente el cliente

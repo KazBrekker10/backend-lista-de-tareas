@@ -1,10 +1,7 @@
 
-const URL = "http://localhost:3000/"
-fetch(URL).then(res=> console.log(res))
+const URL = "http://localhost:3000/";
 const taskList = document.querySelector(".tasks-list");
 const addTasks = document.querySelector(".add-tasks");
-
-const tasks = [];
 
 const noTasksCard = ` <li class="no-task">
             <p>No hay tareas disponibles</p>`
@@ -12,7 +9,6 @@ const noTasksCard = ` <li class="no-task">
 async function getTasks(){
     const tasksJSON = await fetch(`${URL}API/tasks`);
     const tasks = await tasksJSON.json();
-    console.log(tasks.length)
     renderTaskList(tasks);
 }
 
@@ -27,7 +23,6 @@ async function addTask(value){
     })
     const taskResponse = await taskData.json();
     const {tasks} = taskResponse;
-    console.log(tasks);
     renderTaskList(tasks);
 }
 
@@ -38,13 +33,12 @@ async function deleteTask(value,id){
         method:"DELETE"
     });
     const taskData = await taskDelete.json();
-    console.log(taskData);
     renderTaskList(taskData.tasksList);
 
     
 }
 
-function tastkCard(task){
+function taskCard(task){
     const {value,id}= task
     return`<li class="task">
         <p>
@@ -71,9 +65,8 @@ addTasks.addEventListener("submit",(e)=>{
     e.preventDefault();
     const {value} = e.target.tasks;
     e.target.tasks.value = "";
-    if(value){tasks.push(value);
-      addTask(value);
-    }
+    if(value) addTask(value);
+    
 
 })
 
