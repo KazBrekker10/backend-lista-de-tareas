@@ -55,7 +55,7 @@ function taskCard(task){
 function renderTaskList(tasks){
     taskList.innerHTML = "";
     if(tasks.length > 0){
-        taskList.innerHTML += tasks.map(task=> tastkCard(task)).join("");
+        taskList.innerHTML += tasks.map(task=> taskCard(task)).join("");
         return;
     }
     taskList.innerHTML = noTasksCard;
